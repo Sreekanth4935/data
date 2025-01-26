@@ -1,223 +1,442 @@
 [
     {
-      "id": "1",
-      "name": "RRR",
-      "songs": [
-        {
-          "name": "Naatu Naatu",
-          "lyrics": {
-            "telugu": "నాటు నాటు పాట తెలుగు సాహిత్యం",
-            "english": "Naatu Naatu Song English Lyrics"
-          },
-          "youtubeLink": "OsU0CGZoV8E"
-        },
-        {
-          "name": "Janani",
-          "lyrics": {
-            "telugu": "జనని పాట తెలుగు సాహిత్యం",
-            "english": "Janani Song English Lyrics"
-          },
-          "youtubeLink": "Oz4sPCHPdhE"
-        }
-      ]
+        "id": "1",
+        "name": "RRR",
+        "songs": [
+            {
+                "name": "Naatu Naatu",
+                "lyrics": {
+                    "telugu": "నాటు నాటు పాట తెలుగు సాహిత్యం",
+                    "english": "Naatu Naatu Song English Lyrics"
+                },
+                "youtubeLink": "OsU0CGZoV8E"
+            },
+            {
+                "name": "Janani",
+                "lyrics": {
+                    "telugu": "జనని పాట తెలుగు సాహిత్యం",
+                    "english": "Janani Song English Lyrics"
+                },
+                "youtubeLink": "Oz4sPCHPdhE"
+            }
+        ]
     },
     {
-      "id": "2",
-      "name": "Pushpa",
-      "songs": [
-        {
-          "name": "Srivalli",
-          "lyrics": {
-            "telugu": "శ్రీవల్లి పాట తెలుగు సాహిత్యం",
-            "english": "Srivalli Song English Lyrics"
-          },
-          "youtubeLink": "pfGe0ORwvSQ"
-        },
-        {
-          "name": "Oo Antava",
-          "lyrics": {
-            "telugu": "ఊ అంటావా పాట తెలుగు సాహిత్యం",
-            "english": "Oo Antava Song English Lyrics"
-          },
-          "youtubeLink": "StTqXEQ2l-Y"
-        }
-      ]
+        "id": "2",
+        "name": "Pushpa",
+        "songs": [
+            {
+                "name": "Srivalli",
+                "lyrics": {
+                    "telugu": "శ్రీవల్లి పాట తెలుగు సాహిత్యం",
+                    "english": "Srivalli Song English Lyrics"
+                },
+                "youtubeLink": "pfGe0ORwvSQ"
+            },
+            {
+                "name": "Oo Antava",
+                "lyrics": {
+                    "telugu": "ఊ అంటావా పాట తెలుగు సాహిత్యం",
+                    "english": "Oo Antava Song English Lyrics"
+                },
+                "youtubeLink": "StTqXEQ2l-Y"
+            }
+        ]
     },
     {
-      "id": "3",
-      "name": "Bahubali",
-      "songs": [
-        {
-          "name": "Dandalayya",
-          "lyrics": {
-            "telugu": "దండలయ్య పాట తెలుగు సాహిత్యం",
-            "english": "Dandalayya Song English Lyrics"
-          },
-          "youtubeLink": "D9c8euL3MBI"
-        },
-        {
-          "name": "Jiyo Re Bahubali",
-          "lyrics": {
-            "telugu": "జియో రే బాహుబలి పాట తెలుగు సాహిత్యం",
-            "english": "Jiyo Re Bahubali Song English Lyrics"
-          },
-          "youtubeLink": "pF5S9XO3qJo"
-        }
-      ]
+        "id": "3",
+        "name": "Bahubali",
+        "songs": [
+            {
+                "name": "Dandalayya",
+                "lyrics": {
+                    "telugu": "దండలయ్య పాట తెలుగు సాహిత్యం",
+                    "english": "Dandalayya Song English Lyrics"
+                },
+                "youtubeLink": "D9c8euL3MBI"
+            },
+            {
+                "name": "Jiyo Re Bahubali",
+                "lyrics": {
+                    "telugu": "జియో రే బాహుబలి పాట తెలుగు సాహిత్యం",
+                    "english": "Jiyo Re Bahubali Song English Lyrics"
+                },
+                "youtubeLink": "pF5S9XO3qJo"
+            }
+        ]
     },
     {
-      "id": "4",
-      "name": "Radhe Shyam",
-      "songs": [
-        {
-          "name": "Soch Liya",
-          "lyrics": {
-            "telugu": "సోచ్ లియా పాట తెలుగు సాహిత్యం",
-            "english": "Soch Liya Song English Lyrics"
-          },
-          "youtubeLink": "6oF2t92hyqA"
-        },
-        {
-          "name": "Aashiqui Aa Gayi",
-          "lyrics": {
-            "telugu": "ఆశికీ ఆ గయి పాట తెలుగు సాహిత్యం",
-            "english": "Aashiqui Aa Gayi Song English Lyrics"
-          },
-          "youtubeLink": "Gi4QXE-JBUs"
-        }
-      ]
+        "id": "4",
+        "name": "Radhe Shyam",
+        "songs": [
+            {
+                "name": "Soch Liya",
+                "lyrics": {
+                    "telugu": "సోచ్ లియా పాట తెలుగు సాహిత్యం",
+                    "english": "Soch Liya Song English Lyrics"
+                },
+                "youtubeLink": "6oF2t92hyqA"
+            },
+            {
+                "name": "Aashiqui Aa Gayi",
+                "lyrics": {
+                    "telugu": "ఆశికీ ఆ గయి పాట తెలుగు సాహిత్యం",
+                    "english": "Aashiqui Aa Gayi Song English Lyrics"
+                },
+                "youtubeLink": "Gi4QXE-JBUs"
+            }
+        ]
     },
     {
-      "id": "5",
-      "name": "Sarkaru Vaari Paata",
-      "songs": [
-        {
-          "name": "Kalaavathi",
-          "lyrics": {
-            "telugu": "కళావతి పాట తెలుగు సాహిత్యం",
-            "english": "Kalaavathi Song English Lyrics"
-          },
-          "youtubeLink": "EjVWXJo6Kyk"
-        },
-        {
-          "name": "Penny",
-          "lyrics": {
-            "telugu": "పెన్నీ పాట తెలుగు సాహిత్యం",
-            "english": "Penny Song English Lyrics"
-          },
-          "youtubeLink": "tD4dzvnqIIk"
-        }
-      ]
+        "id": "5",
+        "name": "Sarkaru Vaari Paata",
+        "songs": [
+            {
+                "name": "Kalaavathi",
+                "lyrics": {
+                    "telugu": "కళావతి పాట తెలుగు సాహిత్యం",
+                    "english": "Kalaavathi Song English Lyrics"
+                },
+                "youtubeLink": "EjVWXJo6Kyk"
+            },
+            {
+                "name": "Penny",
+                "lyrics": {
+                    "telugu": "పెన్నీ పాట తెలుగు సాహిత్యం",
+                    "english": "Penny Song English Lyrics"
+                },
+                "youtubeLink": "tD4dzvnqIIk"
+            }
+        ]
     },
     {
-      "id": "6",
-      "name": "Bheemla Nayak",
-      "songs": [
-        {
-          "name": "Bheemla Nayak Title Song",
-          "lyrics": {
-            "telugu": "భీమ్ల నాయక్ టైటిల్ సాంగ్ పాట తెలుగు సాహిత్యం",
-            "english": "Bheemla Nayak Title Song English Lyrics"
-          },
-          "youtubeLink": "9HnAhvE43OQ"
-        },
-        {
-          "name": "La La Bheemla",
-          "lyrics": {
-            "telugu": "లా లా భీమ్ల పాట తెలుగు సాహిత్యం",
-            "english": "La La Bheemla Song English Lyrics"
-          },
-          "youtubeLink": "lkKy60YW3II"
-        }
-      ]
+        "id": "6",
+        "name": "Bheemla Nayak",
+        "songs": [
+            {
+                "name": "Bheemla Nayak Title Song",
+                "lyrics": {
+                    "telugu": "భీమ్ల నాయక్ టైటిల్ సాంగ్ పాట తెలుగు సాహిత్యం",
+                    "english": "Bheemla Nayak Title Song English Lyrics"
+                },
+                "youtubeLink": "9HnAhvE43OQ"
+            },
+            {
+                "name": "La La Bheemla",
+                "lyrics": {
+                    "telugu": "లా లా భీమ్ల పాట తెలుగు సాహిత్యం",
+                    "english": "La La Bheemla Song English Lyrics"
+                },
+                "youtubeLink": "lkKy60YW3II"
+            }
+        ]
     },
     {
-      "id": "7",
-      "name": "Geetha Govindam",
-      "songs": [
-        {
-          "name": "Inkem Inkem",
-          "lyrics": {
-            "telugu": "ఇంకెం ఇంకెం పాట తెలుగు సాహిత్యం",
-            "english": "Inkem Inkem Song English Lyrics"
-          },
-          "youtubeLink": "C2kScx68khI"
-        },
-        {
-          "name": "Yenti Yenti",
-          "lyrics": {
-            "telugu": "ఎంతి ఎంతి పాట తెలుగు సాహిత్యం",
-            "english": "Yenti Yenti Song English Lyrics"
-          },
-          "youtubeLink": "FPI5PbEr4sM"
-        }
-      ]
+        "id": "7",
+        "name": "Geetha Govindam",
+        "songs": [
+            {
+                "name": "Inkem Inkem",
+                "lyrics": {
+                    "telugu": "ఇంకెం ఇంకెం పాట తెలుగు సాహిత్యం",
+                    "english": "Inkem Inkem Song English Lyrics"
+                },
+                "youtubeLink": "C2kScx68khI"
+            },
+            {
+                "name": "Yenti Yenti",
+                "lyrics": {
+                    "telugu": "ఎంతి ఎంతి పాట తెలుగు సాహిత్యం",
+                    "english": "Yenti Yenti Song English Lyrics"
+                },
+                "youtubeLink": "FPI5PbEr4sM"
+            }
+        ]
     },
     {
-      "id": "8",
-      "name": "Arjun Reddy",
-      "songs": [
-        {
-          "name": "Telisiney Na Nuvvey",
-          "lyrics": {
-            "telugu": "తెలిసినేయ నా నువ్వే పాట తెలుగు సాహిత్యం",
-            "english": "Telisiney Na Nuvvey Song English Lyrics"
-          },
-          "youtubeLink": "Mf7ahMtRQK4"
-        },
-        {
-          "name": "Emitemito",
-          "lyrics": {
-            "telugu": "ఎమిటెమిటో పాట తెలుగు సాహిత్యం",
-            "english": "Emitemito Song English Lyrics"
-          },
-          "youtubeLink": "3KQH5V6BuWg"
-        }
-      ]
+        "id": "8",
+        "name": "Arjun Reddy",
+        "songs": [
+            {
+                "name": "Telisiney Na Nuvvey",
+                "lyrics": {
+                    "telugu": "తెలిసినేయ నా నువ్వే పాట తెలుగు సాహిత్యం",
+                    "english": "Telisiney Na Nuvvey Song English Lyrics"
+                },
+                "youtubeLink": "Mf7ahMtRQK4"
+            },
+            {
+                "name": "Emitemito",
+                "lyrics": {
+                    "telugu": "ఎమిటెమిటో పాట తెలుగు సాహిత్యం",
+                    "english": "Emitemito Song English Lyrics"
+                },
+                "youtubeLink": "3KQH5V6BuWg"
+            }
+        ]
     },
     {
-      "id": "9",
-      "name": "Ala Vaikunthapurramuloo",
-      "songs": [
-        {
-          "name": "Samajavaragamana",
-          "lyrics": {
-            "telugu": "సమజవరగమనా పాట తెలుగు సాహిత్యం",
-            "english": "Samajavaragamana Song English Lyrics"
-          },
-          "youtubeLink": "pLXCc8cA6BE"
-        },
-        {
-          "name": "Ramuloo Ramulaa",
-          "lyrics": {
-            "telugu": "రాములో రాములా పాట తెలుగు సాహిత్యం",
-            "english": "Ramuloo Ramulaa Song English Lyrics"
-          },
-          "youtubeLink": "jBB2ZKDb-mc"
-        }
-      ]
+        "id": "9",
+        "name": "Ala Vaikunthapurramuloo",
+        "songs": [
+            {
+                "name": "Samajavaragamana",
+                "lyrics": {
+                    "telugu": "సమజవరగమనా పాట తెలుగు సాహిత్యం",
+                    "english": "Samajavaragamana Song English Lyrics"
+                },
+                "youtubeLink": "pLXCc8cA6BE"
+            },
+            {
+                "name": "Ramuloo Ramulaa",
+                "lyrics": {
+                    "telugu": "రాములో రాములా పాట తెలుగు సాహిత్యం",
+                    "english": "Ramuloo Ramulaa Song English Lyrics"
+                },
+                "youtubeLink": "jBB2ZKDb-mc"
+            }
+        ]
     },
     {
-      "id": "10",
-      "name": "Duvvada Jagannadham",
-      "songs": [
-        {
-          "name": "Seeti Maar",
-          "lyrics": {
-            "telugu": "సీటీ మార్ పాట తెలుగు సాహిత్యం",
-            "english": "Seeti Maar Song English Lyrics"
-          },
-          "youtubeLink": "vXCkEZ1tQjQ"
-        },
-        {
-          "name": "Box Baddhalai Poye",
-          "lyrics": {
-            "telugu": "బాక్స్ బద్దలై పోయే పాట తెలుగు సాహిత్యం",
-            "english": "Box Baddhalai Poye Song English Lyrics"
-          },
-          "youtubeLink": "1O-yG5v8IdU"
-        }
-      ]
+        "id": "10",
+        "name": "Duvvada Jagannadham",
+        "songs": [
+            {
+                "name": "Seeti Maar",
+                "lyrics": {
+                    "telugu": "సీటీ మార్ పాట తెలుగు సాహిత్యం",
+                    "english": "Seeti Maar Song English Lyrics"
+                },
+                "youtubeLink": "vXCkEZ1tQjQ"
+            },
+            {
+                "name": "Box Baddhalai Poye",
+                "lyrics": {
+                    "telugu": "బాక్స్ బద్దలై పోయే పాట తెలుగు సాహిత్యం",
+                    "english": "Box Baddhalai Poye Song English Lyrics"
+                },
+                "youtubeLink": "1O-yG5v8IdU"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "RRR",
+        "songs": [
+            {
+                "name": "Naatu Naatu",
+                "lyrics": {
+                    "telugu": "నాటు నాటు పాట తెలుగు సాహిత్యం",
+                    "english": "Naatu Naatu Song English Lyrics"
+                },
+                "youtubeLink": "OsU0CGZoV8E"
+            },
+            {
+                "name": "Janani",
+                "lyrics": {
+                    "telugu": "జనని పాట తెలుగు సాహిత్యం",
+                    "english": "Janani Song English Lyrics"
+                },
+                "youtubeLink": "Oz4sPCHPdhE"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Pushpa",
+        "songs": [
+            {
+                "name": "Srivalli",
+                "lyrics": {
+                    "telugu": "శ్రీవల్లి పాట తెలుగు సాహిత్యం",
+                    "english": "Srivalli Song English Lyrics"
+                },
+                "youtubeLink": "pfGe0ORwvSQ"
+            },
+            {
+                "name": "Oo Antava",
+                "lyrics": {
+                    "telugu": "ఊ అంటావా పాట తెలుగు సాహిత్యం",
+                    "english": "Oo Antava Song English Lyrics"
+                },
+                "youtubeLink": "StTqXEQ2l-Y"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Bahubali",
+        "songs": [
+            {
+                "name": "Dandalayya",
+                "lyrics": {
+                    "telugu": "దండలయ్య పాట తెలుగు సాహిత్యం",
+                    "english": "Dandalayya Song English Lyrics"
+                },
+                "youtubeLink": "D9c8euL3MBI"
+            },
+            {
+                "name": "Jiyo Re Bahubali",
+                "lyrics": {
+                    "telugu": "జియో రే బాహుబలి పాట తెలుగు సాహిత్యం",
+                    "english": "Jiyo Re Bahubali Song English Lyrics"
+                },
+                "youtubeLink": "pF5S9XO3qJo"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Radhe Shyam",
+        "songs": [
+            {
+                "name": "Soch Liya",
+                "lyrics": {
+                    "telugu": "సోచ్ లియా పాట తెలుగు సాహిత్యం",
+                    "english": "Soch Liya Song English Lyrics"
+                },
+                "youtubeLink": "6oF2t92hyqA"
+            },
+            {
+                "name": "Aashiqui Aa Gayi",
+                "lyrics": {
+                    "telugu": "ఆశికీ ఆ గయి పాట తెలుగు సాహిత్యం",
+                    "english": "Aashiqui Aa Gayi Song English Lyrics"
+                },
+                "youtubeLink": "Gi4QXE-JBUs"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Sarkaru Vaari Paata",
+        "songs": [
+            {
+                "name": "Kalaavathi",
+                "lyrics": {
+                    "telugu": "కళావతి పాట తెలుగు సాహిత్యం",
+                    "english": "Kalaavathi Song English Lyrics"
+                },
+                "youtubeLink": "EjVWXJo6Kyk"
+            },
+            {
+                "name": "Penny",
+                "lyrics": {
+                    "telugu": "పెన్నీ పాట తెలుగు సాహిత్యం",
+                    "english": "Penny Song English Lyrics"
+                },
+                "youtubeLink": "tD4dzvnqIIk"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Bheemla Nayak",
+        "songs": [
+            {
+                "name": "Bheemla Nayak Title Song",
+                "lyrics": {
+                    "telugu": "భీమ్ల నాయక్ టైటిల్ సాంగ్ పాట తెలుగు సాహిత్యం",
+                    "english": "Bheemla Nayak Title Song English Lyrics"
+                },
+                "youtubeLink": "9HnAhvE43OQ"
+            },
+            {
+                "name": "La La Bheemla",
+                "lyrics": {
+                    "telugu": "లా లా భీమ్ల పాట తెలుగు సాహిత్యం",
+                    "english": "La La Bheemla Song English Lyrics"
+                },
+                "youtubeLink": "lkKy60YW3II"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Geetha Govindam",
+        "songs": [
+            {
+                "name": "Inkem Inkem",
+                "lyrics": {
+                    "telugu": "ఇంకెం ఇంకెం పాట తెలుగు సాహిత్యం",
+                    "english": "Inkem Inkem Song English Lyrics"
+                },
+                "youtubeLink": "C2kScx68khI"
+            },
+            {
+                "name": "Yenti Yenti",
+                "lyrics": {
+                    "telugu": "ఎంతి ఎంతి పాట తెలుగు సాహిత్యం",
+                    "english": "Yenti Yenti Song English Lyrics"
+                },
+                "youtubeLink": "FPI5PbEr4sM"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Arjun Reddy",
+        "songs": [
+            {
+                "name": "Telisiney Na Nuvvey",
+                "lyrics": {
+                    "telugu": "తెలిసినేయ నా నువ్వే పాట తెలుగు సాహిత్యం",
+                    "english": "Telisiney Na Nuvvey Song English Lyrics"
+                },
+                "youtubeLink": "Mf7ahMtRQK4"
+            },
+            {
+                "name": "Emitemito",
+                "lyrics": {
+                    "telugu": "ఎమిటెమిటో పాట తెలుగు సాహిత్యం",
+                    "english": "Emitemito Song English Lyrics"
+                },
+                "youtubeLink": "3KQH5V6BuWg"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Ala Vaikunthapurramuloo",
+        "songs": [
+            {
+                "name": "Samajavaragamana",
+                "lyrics": {
+                    "telugu": "సమజవరగమనా పాట తెలుగు సాహిత్యం",
+                    "english": "Samajavaragamana Song English Lyrics"
+                },
+                "youtubeLink": "pLXCc8cA6BE"
+            },
+            {
+                "name": "Ramuloo Ramulaa",
+                "lyrics": {
+                    "telugu": "రాములో రాములా పాట తెలుగు సాహిత్యం",
+                    "english": "Ramuloo Ramulaa Song English Lyrics"
+                },
+                "youtubeLink": "jBB2ZKDb-mc"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Duvvada Jagannadham",
+        "songs": [
+            {
+                "name": "Seeti Maar",
+                "lyrics": {
+                    "telugu": "సీటీ మార్ పాట తెలుగు సాహిత్యం",
+                    "english": "Seeti Maar Song English Lyrics"
+                },
+                "youtubeLink": "vXCkEZ1tQjQ"
+            },
+            {
+                "name": "Box Baddhalai Poye",
+                "lyrics": {
+                    "telugu": "బాక్స్ బద్దలై పోయే పాట తెలుగు సాహిత్యం",
+                    "english": "Box Baddhalai Poye Song English Lyrics"
+                },
+                "youtubeLink": "1O-yG5v8IdU"
+            }
+        ]
     }
-  ]
-  
+]
